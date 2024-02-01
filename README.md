@@ -23,7 +23,8 @@ I'm always excited to learn more about any languages, concepts and technologies.
 <img align="left" alt="vsCode" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=vscode&theme=dark"  />
 <img align="left" alt="r" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=r&theme=dark"  />
 <img align="left" alt="mysql" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=mysql&theme=dark"  />
-
+<img align="left" alt="mysql" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=express&theme=dark"  />
+<img align="left" alt="mysql" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=postman&theme=dark"  />
 
 
 
