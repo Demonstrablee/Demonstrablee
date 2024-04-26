@@ -19,7 +19,7 @@ I'm always excited to learn more about any languages, concepts and technologies.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 <!-- Skill Icons (https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/)-->
-<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=github&theme=dark" />
+
 <img align="left" alt="vsCode" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=vscode&theme=dark"  />
 <img align="left" alt="r" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=r&theme=dark"  />
 <img align="left" alt="mysql" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=mysql&theme=dark"  />
