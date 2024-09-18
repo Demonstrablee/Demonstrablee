@@ -29,6 +29,8 @@ I'm always excited to learn more about any languages, concepts and technologies.
 
 <img align="left" alt="dotNET" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=dotnet&theme=dark"/>
 <img align="left" alt="swift" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=swift&theme=dark"/>
+<img align="left" alt="wordpress" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=wordpress&theme=dark"/>
+<img align="left" alt="figma" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=figma&theme=dark"/>
           
 
 
