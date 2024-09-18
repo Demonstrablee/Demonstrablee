@@ -18,15 +18,18 @@ I'm always excited to learn more about any languages, concepts and technologies.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 <!-- Skill Icons (https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/)-->
-
+<img align="left" alt="express" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=python&theme=dark"/>
 <img align="left" alt="github" width="35px" style="padding-right:10px;" src= "https://skillicons.dev/icons?i=github"/>
 <img align="left" alt="nodejs" width="35px" style="padding-right:10px;" src= "https://skillicons.dev/icons?i=nodejs"/>
-<img align="left" alt="vsCode" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=vscode&theme=dark"  />
-<img align="left" alt="r" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=r&theme=dark"  />
-<img align="left" alt="mysql" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=mysql&theme=dark"  />
-<img align="left" alt="mysql" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=express&theme=dark"  />
-<img align="left" alt="mysql" width="35px" style="padding-right:10px;" src="https://skills.thijs.gg/icons?i=postman&theme=dark"  />
+<img align="left" alt="vsCode" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode&theme=dark"  />
+<img align="left" alt="r" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=r&theme=dark"  />
+<img align="left" alt="express" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=express&theme=dark"/>
+<img align="left" alt="postman" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman&theme=dark"/> 
+<img align="left" alt="mysqul" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 
+<img align="left" alt="dotNET" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=dotnet&theme=dark"/>
+<img align="left" alt="swift" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=swift&theme=dark"/>
+          
 
 
  
