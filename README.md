@@ -33,6 +33,7 @@ I'm always excited to learn more about any languages, concepts and technologies.
 <img align="left" alt="kotlin" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=kotlin&theme=dark"/>
 <img align="left" alt="wordpress" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=wordpress&theme=dark"/>
 <img align="left" alt="figma" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+<img align="left" alt="androidstudio" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=androidstudio&theme=dark"/>
 
 
           
