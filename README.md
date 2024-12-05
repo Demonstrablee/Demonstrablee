@@ -3,7 +3,7 @@
 # Demonstrablee 
 **` Aspiring Cybersecurity Specialist `**
 
-Aspiring Info Sec Specialist and Frontend Developer, I have experience in Data analysis working at RF CUNY, and a National Science Foundation funded Online Research Program.
+Aspiring Info Sec Specialist and Front-End Developer, I have experience in Data analysis working at RF CUNY, and a National Science Foundation funded Online Research Program.
 I'm always excited to learn more about any languages, concepts and technologies.
 
 ### Languages and Tools
